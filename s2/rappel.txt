@@ -1,0 +1,13 @@
+la structure : doctype - html - head:title - body
+
+bloc vs inline
+
+head : meta = charset, keywords, description, 
+
+viewport ? 
+
+Site Responsive : s'adapte aux "device" 
+
+.....
+
+style => css
