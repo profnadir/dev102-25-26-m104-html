@@ -1,0 +1,14 @@
+les listes : ul(li) ol(li) dl(dt dd)
+les liens : a(href = )(target = "_self|_blank")
+ a? href="https://www.ofppt.ma"
+    href="../contact.html"
+
+    -> id="ttt"
+    href="#ttt"
+
+    dir="ltr|rtl"
+    ...
+
+live server
+
+CV
